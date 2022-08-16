@@ -11,4 +11,4 @@ This solution helps us in finding and highlighting the position of the barcode p
 * Mphasis DeepInsights is a cloud-based cognitive computing platform that offers data extraction & predictive analytics capabilities. Need customized Machine Learning and Deep Learning solutions? Get in touch!
 
 ## Amazon Marketplace Link
-The product can be found [here]
+The product can be found [here] (https://aws.amazon.com/marketplace/pp/prodview-owcbvuvl44n66?sr=0-1&ref_=beagle&applicationId=AWSMPContessa)
